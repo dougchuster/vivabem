@@ -2,6 +2,8 @@ import type { MetadataRoute } from 'next'
 import { blogPosts } from '@/lib/data/blog-posts'
 import { siteConfig } from '@/lib/site-config'
 
+export const dynamic = 'force-static'
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = ['', '/blog', '/planos', '/simulacao', '/sobre', '/privacidade', '/termos']
 
