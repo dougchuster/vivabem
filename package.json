@@ -8,7 +8,7 @@
     "predev": "npm run clean",
     "prebuild": "npm run clean",
     "dev": "vinext dev",
-    "build": "vinext build",
+    "build": "vinext build && node -e \"require('fs').mkdirSync('.next', {recursive:true})\"",
     "start": "vinext start",
     "typegen": "vinext typegen",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
