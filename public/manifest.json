@@ -1,0 +1,16 @@
+{
+  "name": "VivaBem Saude",
+  "short_name": "VivaBem",
+  "description": "Compare planos de saude e receba simulacoes personalizadas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#00A878",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

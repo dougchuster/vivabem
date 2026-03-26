@@ -1,0 +1,12 @@
+Error: vinext: App Router detected but @vitejs/plugin-rsc is not installed.
+Run: pnpm add -D @vitejs/plugin-rsc
+    at vinext (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.pnpm/vinext@0.0.35_@vitejs+plugin-react@6.0.1_next@15.5.14_react-dom@19.2.4_react@19.2.4_typescript@5.9.3_vite@8.0.2/node_modules/vinext/dist/index.js:741:31)
+    at file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.vite-temp/vite.config.ts.timestamp-1774480744779-5d20e983718178.mjs:5:52
+    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)
+    at async loadConfigFromBundledFile (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.pnpm/vite@8.0.2_@types+node@20.19.37/node_modules/vite/dist/node/chunks/node.js:34556:12)
+    at async bundleAndLoadConfigFile (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.pnpm/vite@8.0.2_@types+node@20.19.37/node_modules/vite/dist/node/chunks/node.js:34417:17)
+    at async loadConfigFromFile (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.pnpm/vite@8.0.2_@types+node@20.19.37/node_modules/vite/dist/node/chunks/node.js:34384:42)
+    at async resolveConfig (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/node_modules/.pnpm/vite@8.0.2_@types+node@20.19.37/node_modules/vite/dist/node/chunks/node.js:34008:22)
+    at async test (file:///C:/Users/dougc/Documents/Projetos/help%20saude/vivabem-saude/test-vite2.js:6:20)
+{}

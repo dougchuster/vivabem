@@ -1,0 +1,1 @@
+components/sections/ProfessionalLandingSection.tsx(373,18): error TS2304: Cannot find name 'Stethoscope'.

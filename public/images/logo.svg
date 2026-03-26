@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <rect x="4" y="8" width="64" height="64" rx="18" fill="url(#bg)" />
+  <path
+    d="M36 57.2c-7.2-4.5-18-11.4-18-22.4 0-5.8 4.5-10.4 10.2-10.4 3.6 0 6.7 1.7 8.8 4.6 2.1-2.9 5.2-4.6 8.8-4.6 5.7 0 10.2 4.6 10.2 10.4 0 11-10.8 17.9-18 22.4Z"
+    fill="white"
+  />
+  <text x="88" y="38" fill="#0F172A" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700">
+    VivaBem
+  </text>
+  <text x="90" y="58" fill="#475569" font-family="Verdana, Arial, sans-serif" font-size="14" letter-spacing="3">
+    SAUDE
+  </text>
+  <defs>
+    <linearGradient id="bg" x1="14" x2="58" y1="12" y2="68" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00A878" />
+      <stop offset="1" stop-color="#007A58" />
+    </linearGradient>
+  </defs>
+</svg>
