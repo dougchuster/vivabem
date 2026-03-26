@@ -147,16 +147,16 @@ export function Footer() {
                   <p className="text-sm text-white/55">Sáb: 09h–14h</p>
                 </div>
               </div>
-              <a href="tel:+5511943015525" className="flex items-center gap-2.5 group">
+              <a href="tel:+556284457024" className="flex items-center gap-2.5 group">
                 <Phone className="w-4 h-4 text-[#C9952A] shrink-0" />
                 <span className="text-sm font-semibold text-[#C9952A] group-hover:text-[#D4A832] transition-colors">
-                  (11) 94301-5525
+                  (62) 8445-7024
                 </span>
               </a>
-              <a href="mailto:contato@vivabemsaude.com.br" className="flex items-center gap-2.5 group">
+              <a href="mailto:contato@planosaudevida.com" className="flex items-center gap-2.5 group">
                 <Mail className="w-4 h-4 text-white/35 shrink-0" />
                 <span className="text-xs text-white/45 group-hover:text-white/70 transition-colors">
-                  contato@vivabemsaude.com.br
+                  contato@planosaudevida.com
                 </span>
               </a>
               <div className="flex items-start gap-2.5">
@@ -168,7 +168,7 @@ export function Footer() {
             </div>
 
             <a
-              href="https://api.whatsapp.com/send?phone=5511943015525"
+              href="https://api.whatsapp.com/send?phone=556284457024"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 flex items-center gap-2 bg-[#1A4A2E] border border-white/10 rounded-xl px-4 py-3 text-sm font-bold text-white hover:bg-[#2E7D52] hover:border-white/20 transition-all duration-200"

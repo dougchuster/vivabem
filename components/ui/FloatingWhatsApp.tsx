@@ -49,7 +49,7 @@ export function FloatingWhatsApp() {
               Fale agora com um especialista para tirar suas dúvidas e simular seu plano sem compromisso.
             </p>
             <a
-              href="https://api.whatsapp.com/send?phone=5511943015525&text=Olá!%20Gostaria%20de%20falar%20com%20um%20especialista."
+              href="https://api.whatsapp.com/send?phone=556284457024&text=Olá!%20Gostaria%20de%20falar%20com%20um%20especialista."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-[#1A4A2E] text-white text-xs font-bold w-full py-3 rounded-xl hover:bg-[#0D2B1A] transition-all shadow-md shadow-[#1A4A2E]/20"

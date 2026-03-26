@@ -485,7 +485,7 @@ export function ProfessionalLandingSection() {
               <div className="relative inline-block group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-[#1A4A2E] to-[#4A7C5C] rounded-2xl blur opacity-30 group-hover:opacity-60 transition duration-500 animate-[pulse_3s_ease-in-out_infinite]" />
                 <a
-                  href="https://api.whatsapp.com/send?phone=5511943015525&text=Olá!%20Gostaria%20de%20simular%20um%20plano."
+                  href="https://api.whatsapp.com/send?phone=556284457024&text=Olá!%20Gostaria%20de%20simular%20um%20plano."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="relative inline-flex items-center gap-3 bg-[#1A4A2E] text-white text-[15px] font-bold tracking-wide px-8 py-4 rounded-2xl border border-white/20 shadow-[inset_0_1px_1px_rgba(255,255,255,0.2),0_10px_20px_-10px_rgba(26,74,46,0.5)] transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:border-white/30 overflow-hidden"
@@ -766,7 +766,7 @@ export function ProfessionalLandingSection() {
                   <div className="pt-4 border-t border-gray-100 mt-auto">
                     <p className="text-sm font-bold mb-3" style={{ color: card.color }}>{card.price}</p>
                     <a
-                      href="https://api.whatsapp.com/send?phone=5511943015525"
+                      href="https://api.whatsapp.com/send?phone=556284457024"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="relative flex items-center justify-center gap-2 w-full py-3 rounded-xl text-xs font-bold tracking-wide uppercase transition-all duration-300 text-white border border-white/30 hover:shadow-xl hover:-translate-y-1 overflow-hidden group/btn"
@@ -846,7 +846,7 @@ export function ProfessionalLandingSection() {
             <div className="relative inline-block group w-full sm:w-auto">
               <div className="absolute -inset-1 bg-gradient-to-r from-[#C9952A] to-[#E8C86A] rounded-2xl blur opacity-40 group-hover:opacity-80 transition duration-500 animate-[pulse_3s_ease-in-out_infinite]" />
               <a
-                href="https://api.whatsapp.com/send?phone=5511943015525"
+                href="https://api.whatsapp.com/send?phone=556284457024"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative flex sm:inline-flex items-center justify-center gap-3 bg-[#C9952A] text-[#0D2B1A] text-[15px] font-bold tracking-wide px-8 py-4 rounded-2xl border border-white/40 shadow-[inset_0_1px_1px_rgba(255,255,255,0.4),0_10px_20px_-10px_rgba(201,149,42,0.5)] transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:border-white/60 overflow-hidden"
@@ -944,7 +944,7 @@ export function ProfessionalLandingSection() {
               <div className="relative inline-block group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-[#1A4A2E] to-[#4A7C5C] rounded-2xl blur opacity-30 group-hover:opacity-60 transition duration-500 animate-[pulse_3s_ease-in-out_infinite]" />
                 <a
-                  href="https://api.whatsapp.com/send?phone=5511943015525"
+                  href="https://api.whatsapp.com/send?phone=556284457024"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="relative inline-flex items-center gap-3 bg-[#1A4A2E] text-white text-[15px] font-bold tracking-wide px-8 py-4 rounded-2xl border border-white/20 shadow-[inset_0_1px_1px_rgba(255,255,255,0.2),0_10px_20px_-10px_rgba(26,74,46,0.5)] transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:border-white/30 overflow-hidden"
@@ -1009,7 +1009,7 @@ export function ProfessionalLandingSection() {
               <div className="relative inline-block group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-[#C9952A] to-[#E8C86A] rounded-2xl blur opacity-40 group-hover:opacity-80 transition duration-500 animate-[pulse_3s_ease-in-out_infinite]" />
                 <a
-                  href="https://api.whatsapp.com/send?phone=5511943015525&text=Olá!%20Gostaria%20de%20agendar%20uma%20reunião%20sobre%20planos%20empresariais."
+                  href="https://api.whatsapp.com/send?phone=556284457024&text=Olá!%20Gostaria%20de%20agendar%20uma%20reunião%20sobre%20planos%20empresariais."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="relative inline-flex items-center gap-3 bg-[#C9952A] text-white text-[15px] font-bold tracking-wide px-8 py-4 rounded-2xl border border-white/20 shadow-[inset_0_1px_1px_rgba(255,255,255,0.3),0_10px_20px_-10px_rgba(201,149,42,0.5)] transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:border-white/40 overflow-hidden"
@@ -1285,7 +1285,7 @@ export function ProfessionalLandingSection() {
               <p className="text-sm font-bold text-[#0D2B1A] mb-2">Não encontrou sua resposta?</p>
               <p className="text-sm text-[#5A8870] mb-4">Fale com nossa equipe pelo WhatsApp. Resposta em minutos.</p>
               <a
-                href="https://api.whatsapp.com/send?phone=5511943015525"
+                href="https://api.whatsapp.com/send?phone=556284457024"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#1A4A2E] text-white text-sm font-bold px-6 py-3 rounded-xl hover:bg-[#0D2B1A] transition-colors"
@@ -1384,7 +1384,7 @@ export function ProfessionalLandingSection() {
             <div className="relative inline-block w-full sm:w-auto group">
               <div className="absolute -inset-1 bg-gradient-to-r from-[#C9952A] to-[#E8C86A] rounded-2xl blur opacity-40 group-hover:opacity-80 transition duration-500 animate-[pulse_3s_ease-in-out_infinite]" />
               <a
-                href="https://api.whatsapp.com/send?phone=5511943015525&text=Olá!%20Gostaria%20de%20solicitar%20uma%20cotação%20de%20plano%20de%20saúde."
+                href="https://api.whatsapp.com/send?phone=556284457024&text=Olá!%20Gostaria%20de%20solicitar%20uma%20cotação%20de%20plano%20de%20saúde."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative flex sm:inline-flex w-full items-center justify-center gap-3 bg-[#C9952A] text-[#0D2B1A] text-[16px] font-bold tracking-wide px-10 py-5 rounded-2xl border border-white/40 shadow-[inset_0_1px_1px_rgba(255,255,255,0.4),0_20px_40px_-15px_rgba(201,149,42,0.5)] transition-all duration-300 hover:-translate-y-1 hover:border-white/60 overflow-hidden"
@@ -1395,12 +1395,12 @@ export function ProfessionalLandingSection() {
               </a>
             </div>
             <a
-              href="tel:+5511943015525"
+              href="tel:+556284457024"
               className="relative inline-flex items-center justify-center gap-3 text-white/90 bg-white/5 border border-white/15 text-[15px] font-semibold px-8 py-5 rounded-2xl hover:bg-white/10 hover:border-white/30 transition-all duration-300 shadow-[inset_0_1px_1px_rgba(255,255,255,0.1)] hover:shadow-xl hover:-translate-y-1 overflow-hidden group/tel"
             >
               <div className="absolute inset-0 bg-[radial-gradient(120%_100%_at_50%_0%,_rgba(255,255,255,0.15)_0%,_transparent_50%)] opacity-60 group-hover/tel:opacity-100 transition-opacity duration-300" />
               <PhoneCall className="relative z-10 w-4 h-4" />
-              <span className="relative z-10">(11) 94301-5525</span>
+              <span className="relative z-10">(62) 8445-7024</span>
             </a>
           </div>
 
